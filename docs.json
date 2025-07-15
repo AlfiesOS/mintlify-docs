@@ -28,19 +28,14 @@
           {
             "group": "Circle Whitelisting",
             "pages": [
-              "quickstart",
-              "development"
+              "circle-whitelisting/about"
             ]
           },
           {
             "group": "School Safe",
             "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/settings",
-              "essentials/navigation",
-              "essentials/reusable-snippets"
+              "school-safe/about",
+              "school-safe/signup-code"
             ]
           }
         ]
@@ -51,7 +46,7 @@
           {
             "group": "Circle Whitelisting",
             "pages": [
-              "change-log/cl-cricle-whitelisting/cw-change"
+              "change-log/cl-circle-whitelisting/cw-change"
             ]
           },
           {
