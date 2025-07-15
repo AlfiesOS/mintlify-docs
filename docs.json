@@ -27,7 +27,10 @@
           {
             "group": "Circle Whitelisting",
             "pages": [
-              "circle-whitelisting/about"
+              "circle-whitelisting/about",
+              "circle-whitelisting/client",
+              "circle-whitelisting/customer",
+              "circle-whitelisting/staff"
             ]
           },
           {
