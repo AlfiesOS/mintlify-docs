@@ -11,10 +11,19 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Guides",
+        "tab": "AlfieHQ",
         "groups": [
           {
-            "group": "Get Started",
+            "group": "Welcome",
+            "pages": [
+              "index"
+            ]
+          },
+          {
+        "tab": "Docs",
+        "groups": [
+          {
+            "group": "Circle Whitelisting",
             "pages": [
               "index",
               "quickstart",
@@ -22,7 +31,7 @@
             ]
           },
           {
-            "group": "Essentials",
+            "group": "School Safe",
             "pages": [
               "essentials/markdown",
               "essentials/code",
