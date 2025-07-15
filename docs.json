@@ -23,7 +23,7 @@
         ]
       },
       {
-        "tab": "Docs",
+        "tab": "Documentation",
         "groups": [
           {
             "group": "Circle Whitelisting",
@@ -63,18 +63,23 @@
     "global": {
       "anchors": [
         {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
+          "anchor": "Circle Whitelsiting Documentation",
+          "href": "https://docs.alfiehq.org/circle-whitelisting/about",
           "icon": "book-open-cover"
         },
         {
-          "anchor": "Community",
-          "href": "https://mintlify.com/community",
-          "icon": "slack"
+          "anchor": "School Safe Documentation",
+          "href": "https://docs.alfiehq.org/school-safe/about",
+          "icon": "book-open-cover"
         },
         {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
+          "anchor": "Disocrd",
+          "href": "https://mintlify.com/community",
+          "icon": "discord"
+        },
+        {
+          "anchor": "Change log",
+          "href": "https://docs.alfiehq.org/change-log/",
           "icon": "newspaper"
         }
       ]
@@ -88,20 +93,18 @@
     "links": [
       {
         "label": "Support",
-        "href": "mailto:hi@mintlify.com"
+        "href": "mailto:support@alfiehq.com"
       }
     ],
     "primary": {
       "type": "button",
-      "label": "Dashboard",
-      "href": "https://dashboard.mintlify.com"
+      "label": "To Discord",
+      "href": "https://discord.gg/"
     }
   },
   "footer": {
     "socials": {
-      "x": "https://x.com/mintlify",
-      "github": "https://github.com/mintlify",
-      "linkedin": "https://linkedin.com/company/mintlify"
+      "discord": "https://discord.gg/"
     }
   }
 }
