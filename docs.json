@@ -16,8 +16,7 @@
           {
             "group": "Welcome",
             "pages": [
-              "index",
-              "about-ahq-docs"
+              "index"
             ]
           }
         ]
@@ -35,7 +34,10 @@
             "group": "School Safe",
             "pages": [
               "school-safe/about",
-              "school-safe/signup-code"
+              "school-safe/signup-code",
+              "school-safe/staff-management",
+              "school-safe/students",
+              "school-safe/password-resets"
             ]
           }
         ]
@@ -92,7 +94,7 @@
   "navbar": {
     "links": [
       {
-        "label": "Support",
+        "label": "Email Support",
         "href": "mailto:support@alfiehq.com"
       }
     ],
