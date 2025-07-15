@@ -15,11 +15,11 @@
         "groups": [
           {
             "group": "Welcome",
-            "pages": [
-              "index"
-            ]
-          },
-          {
+            "pages": ["index"]
+          }
+        ]
+      },
+      {
         "tab": "Docs",
         "groups": [
           {
