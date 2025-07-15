@@ -30,7 +30,8 @@
               "circle-whitelisting/about",
               "circle-whitelisting/client",
               "circle-whitelisting/customer",
-              "circle-whitelisting/staff"
+              "circle-whitelisting/staff",
+              "circle-whitelisting/bot-setup"
             ]
           },
           {
