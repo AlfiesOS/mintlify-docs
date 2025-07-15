@@ -43,21 +43,18 @@
         ]
       },
       {
-        "tab": "API Reference",
+        "tab": "Change Log's",
         "groups": [
           {
-            "group": "API Documentation",
+            "group": "Circle Whitelisting",
             "pages": [
-              "api-reference/introduction"
+              "change-log/cl-circle-whitelisting/cw-change"
             ]
           },
           {
-            "group": "Endpoint Examples",
+            "group": "School Safe",
             "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook"
+              "change-log/cl-school-safe/ss-change"
             ]
           }
         ]
