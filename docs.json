@@ -47,14 +47,14 @@
             "group": "Circle Whitelisting",
             "pages": [
               "change-log/cl-circle-whitelisting/cw-change",
-              "change-log/cl-circle-whitelisting/cw-change-10-07-25"
+              "change-log/cl-circle-whitelisting/cw-change-100725"
             ]
           },
           {
             "group": "School Safe",
             "pages": [
               "change-log/cl-school-safe/ss-change",
-              "change-log/cl-school-safe/ss-change-10-07-25"
+              "change-log/cl-school-safe/ss-change-100725"
             ]
           }
         ]
