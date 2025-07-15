@@ -15,7 +15,10 @@
         "groups": [
           {
             "group": "Welcome",
-            "pages": ["index"]
+            "pages": [
+              "index",
+              "about-ahq-docs"
+            ]
           }
         ]
       },
