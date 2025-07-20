@@ -43,6 +43,12 @@
               "school-safe/students",
               "school-safe/password-resets"
             ]
+          },
+          {
+            "group": "Vital Loop",
+            "pages": [
+              "vital-loop/about"
+            ]
           }
         ]
       },
